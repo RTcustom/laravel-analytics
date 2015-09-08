@@ -1,5 +1,5 @@
 {
-  "name": "RTcustom/laravel-analytics",
+  "name": "rtcustom/laravel-analytics",
   "description": "An opinionated Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
     "RTcustom",
