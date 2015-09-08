@@ -13,9 +13,21 @@
   "license": "MIT",
   "authors": [
     {
+<<<<<<< HEAD
       "name": "Robin Timman",
       "email": "info@robintimman.nl",
       "homepage": "http://robintimman.nl",
+=======
+      "name": "Freek Van der Herten",
+      "email": "freek@RTcustom.be",
+      "homepage": "https://murze.be",
+      "role": "Developer"
+    },
+    {
+      "name": "Matthias De Winter",
+      "email": "dewinter.matthias@gmail.com",
+      "homepage": "https://github.com/MatthiasDeWinter",
+>>>>>>> 6d0076f645b520ab4e00fb7c27ef54e8d36838ba
       "role": "Developer"
     }
   ],
